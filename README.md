@@ -23,11 +23,11 @@ You can find me on <a href="https://discord.com/users/438015011806248980" rel="n
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/CrazyTos/CrazyTos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CrazyTos&theme=graywhite&show_icons=true&hide_border=true&hide=stars,prs&count_private=true&line_height=30" alt="CrazyTos GitHub Stats" />
+<a href="https://github.com/ThiagoC-Santos/ThiagoC-Santos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoC-Santos&theme=graywhite&show_icons=true&hide_border=true&hide=stars,prs&count_private=true&line_height=30" alt="ThiagoC-Santos GitHub Stats" />
 </a>
-<a href="https://github.com/CrazyTos/CrazyTos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyTos&theme=graywhite&hide_border=true&langs_count=3" />
+<a href="https://github.com/ThiagoC-Santos/ThiagoC-Santos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoC-Santos&theme=graywhite&hide_border=true&langs_count=3" />
 </a>
 
 
