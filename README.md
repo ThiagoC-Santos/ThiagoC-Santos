@@ -2,24 +2,19 @@
 
 <p>
 My name is Thiago Carvalho. I'm from Brazil, I live in Goiás and I love programming. <br>
-You can find me on <a href="https://discord.com/users/438015011806248980" rel="nofollow"><img src="https://raw.githubusercontent.com/CrazyTos/CrazyTos/master/discord.png" alt="Discord" width="17px" style="paddin-top: 1000px;"></a>, or on <a href="www.linkedin.com/in/thiago-c-santos" rel="nofollow"><img src="https://raw.githubusercontent.com/CrazyTos/CrazyTos/master/linkedin.png" alt="Linkedin" width="17px"></a>
+You can find me on <a href="https://discord.com/users/438015011806248980" rel="nofollow"><img src="https://raw.githubusercontent.com/CrazyTos/CrazyTos/master/discord.png" alt="Discord" width="17px" style="paddin-top: 1000px;"></a>, or on <a href="https://www.linkedin.com/in/thiago-c-santos" rel="nofollow"><img src="https://raw.githubusercontent.com/CrazyTos/CrazyTos/master/linkedin.png" alt="Linkedin" width="17px"></a>
 </p>
 
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![PHP](https://img.shields.io/badge/-php-000?&logo=PHP)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-### Learning
-
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)   
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -29,5 +24,3 @@ You can find me on <a href="https://discord.com/users/438015011806248980" rel="n
 <a href="https://github.com/ThiagoC-Santos/ThiagoC-Santos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoC-Santos&theme=graywhite&hide_border=true&langs_count=3" />
 </a>
-
-
